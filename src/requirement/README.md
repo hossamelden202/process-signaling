@@ -65,3 +65,5 @@ Your program may end up creating too many processes than intended due to a bug (
 2. A `Makefile` to build the program.
     - Running `make` should produce an executable named `cmpsh`.
 3. Documentation on how to use the shell and its features.
+
+**Plagiarism will result in zero grad.**
